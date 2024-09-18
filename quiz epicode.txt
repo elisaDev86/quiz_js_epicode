@@ -1,0 +1,28 @@
+Quiz:
+
+1) Cos'è un algoritmo?
+
+Un algoritmo è una sequenza di istruzioni ben precise ed ordinate le quali hanno lo scopo di raggiungere un risultato finale.
+
+La ricetta per cucinare la pizza, ad esempio, è un algoritmo e prevede l'utilizzo di ingredienti e di seguito delle istruzioni ben precise
+su come questi ingredienti debbano essere utilizzati. In programmazione facciamo la stessa cosa, attraverso l'utilizzo dei linguaggi diamo delle istruzioni
+al pc affinché da quest'ultimo possa uscire l'output che desideriamo.
+Uno degli aspetti più importanti quando si programma è individuare qual è il problema principale, una volta fatto questo è necessario scomporre questo problema ovvero suddividerlo in una serie di piccoli sottoproblemi che man mano che si risolvono ci permettono di arrivare al risultato finale.
+
+
+2) Cos'è una variabile?
+
+Una variabile corrisponde (se volessimo trasporla nella nostra realtà concreta) ad un contenitore (vuoto inizialmente, saremo poi noi a riempirlo con i dati).
+Il suo scopo principalmente è quello di conservare temporaneamente i dati che utilizziamo per la realizzazione del nostro programma.
+Nel linguaggio javascript ci sono principalmente tre tipi di variabili : var, let e const.
+Var tuttavia non viene più usata come una volta, let e const invece sono sempre presenti e hanno caratteristiche diverse, a let può essere assegnato un valore diverso anche se in precedenza ne aveva un altro, const invece (costante) non ha questa flessibilità quindi una volta avuto un valore assegnato non può più cambiare.
+
+3) Undefined e null sono la stessa cosa?
+
+Se li consideriamo dal punto di vista di "valori" si, sono entrambi due valori che vengono attribuiti alle variabili, quello che cambia è la loro destinazione d'uso perché "undefined" indica che non c'è nessun valore definito all'interno di una variabile poiché è stata solo dichiarata (let zucchero=   ),
+"null" invece indica che una variabile che aveva in precedenza un valore attribuito adesso è vuota, serve appunto per svuotare una variabile 
+(let zucchero= 150;
+let zucchero= null;).
+
+
+Testo prodotto da Elisa Siracusano in data 18/09/2024
